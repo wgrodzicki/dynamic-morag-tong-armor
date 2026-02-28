@@ -4,7 +4,7 @@
 
 ## Why this mod?
 
-This is an upgraded version of my [Morag Tong Armor Revisited](https://www.nexusmods.com/morrowind/mods/51728) mod. It distributes pieces of the Morag Tong armor (originally by [NazoX9](https://www.nexusmods.com/morrowind/mods/44938), improved by me) to all faction members in the game. The armor is also available to the player at several vendors.
+This is an upgraded version of my [Morag Tong Armor Revisited](https://www.nexusmods.com/morrowind/mods/51728) mod. It dynamically distributes pieces of the Morag Tong armor to all faction members in the game. The armor is also available to the player at several vendors.
 
 My previous mod added the armor pieces to Morag Tong members "by hand" in the CS, which had a drastic impact on compatibility and made any updates tedious and difficult. This one is free of these issues.
 
@@ -21,7 +21,7 @@ It includes brand new:
 3. Boots
 4. Gauntlets
 5. Pauldrons
-6. Skirt.
+6. Skirt
 
 Morag Tong members will also wear the vanilla:
 
@@ -29,7 +29,7 @@ Morag Tong members will also wear the vanilla:
 2. Robe
 3. Gloves
 
-The models were made by NazoX9, I later polished and improved most of them. I also created new icons. The whole set uses original game textures and fits the style of the vanilla pieces very well (only helmet, robe and gloves are present in the game by default).
+The models were made by NazoX9, I later polished and improved most of them. I also created new icons. The whole set uses original game textures and fits the style of the vanilla pieces very well (only helmet, robe and gloves were present in the game by default).
 
 ### Armor stats
 
@@ -53,7 +53,7 @@ Then you can go to Rogdul gro-Bularz in the guild's headquarters in Vivec. He se
 
 ## Requirements
 
-- [OpenMW 0.49](https://openmw.org/downloads/) or newer
+- [OpenMW](https://openmw.org/downloads/) 0.49 or newer
 - Bloodmoon
 - Tribunal
 
