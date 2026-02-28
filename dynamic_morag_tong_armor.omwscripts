@@ -1,0 +1,2 @@
+GLOBAL: scripts/dynamic_morag_tong_armor/global.lua
+NPC: scripts/dynamic_morag_tong_armor/npc.lua
