@@ -44,7 +44,12 @@ For an increased variety armor pieces worn by NPCs depend on their faction rank,
 
 ### Getting the armor
 
+To acquire the armor you have to meet 2 requirements:
 
+1. Join the Morag Tong
+2. Be promoted to at least rank 1 (Blind Thrall)
+
+Then you can go to Rogdul gro-Bularz in the guild's headquarters in Vivec. He sells the entire set.
 
 ## Requirements
 
@@ -61,11 +66,11 @@ Install like any other mod for OpenMW. Follow the official guide [here](https://
 Should be compatible with anything that does not touch the few Morag Tong-related changes that I made in the CS:
 
 - vanilla pieces (helmet, robe, gloves)
-- a few Morag Tong vendor NPCs
+- the single NPC that sells the armor (Rogdul gro-Bularz in Vivec)
 
 Otherwise, there should be no conflicts. Note, however, that if you use something that changes the apparel of Morag Tong members, load this mod afterwards to see this armor on them.
 
-I also kept any changes from -atch for Purists, wherever applicable. The plug-in has been checked and cleand with Enchanted Editor.
+I also kept any changes from Patch for Purists, wherever applicable. The plug-in has been checked and cleand with Enchanted Editor.
 
 ## Credits
 
