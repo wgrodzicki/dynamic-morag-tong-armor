@@ -68,12 +68,12 @@ local skirtBySlot = {
 
 -- Sets by ranks (each rank has a specific armor set)
 local armorSetsByRank = {
-    [1] = { cuirassBySlot, greavesBySlot, bootsBySlot },
-    [2] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGloveBySlot, rightGloveBySlot },
-    [3] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot },
-    [4] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, skirtBySlot},
-    [5] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, skirtBySlot, leftPauldronBySlot, rightPauldronBySlot },
-    [6] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, skirtBySlot, leftPauldronBySlot, rightPauldronBySlot, helmetBySlot },
+    --  No gear at the lowest rank
+    [2] = { cuirassBySlot, greavesBySlot, bootsBySlot },
+    [3] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGloveBySlot, rightGloveBySlot },
+    [4] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot },
+    [5] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, skirtBySlot},
+    [6] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, skirtBySlot, leftPauldronBySlot, rightPauldronBySlot },
     [7] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, skirtBySlot, leftPauldronBySlot, rightPauldronBySlot, helmetBySlot },
     [8] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, leftPauldronBySlot, rightPauldronBySlot, robeBySlot },
     [9] = { cuirassBySlot, greavesBySlot, bootsBySlot, leftGauntletBySlot, rightGauntletBySlot, leftPauldronBySlot, rightPauldronBySlot, robeBySlot },
